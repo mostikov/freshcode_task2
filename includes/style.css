@@ -1,7 +1,7 @@
 .container1 {
     height: 100px;
     width: 400px;
-    border-sizing: border-block;
+    border-sizing: border-box;
     background-color: rgba(255, 211, 0, 0.5);
     padding: 50px;
     margin: 50px;
@@ -12,7 +12,7 @@
 .container2 {
     height: 100px;
     width: 400px;
-    border-sizing: border-block;
+    border-sizing: border-box;
     background-color: rgba(56, 101, 232, 0.5);
     margin: 50px;
     border: 5px solid red;
